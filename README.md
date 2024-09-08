@@ -24,3 +24,12 @@ pip install -r requirements.txt
 
 Run the project:
 python Drowsiness_Detection(1).py
+
+# Usage
+Start the application by running the Drowsiness_Detection(1).py file.
+
+A window will pop up showing the camera feed.
+
+The system will start monitoring the user’s eye movements.
+
+When drowsiness is detected, the system will sound an alert.
