@@ -13,10 +13,14 @@ Can be integrated into vehicle systems for real-time use.
 Easy to set up and use.
 
 # Installation
+Navigate to master branch
+
 Clone the repository:
 git clone https://github.com/yourusername/drowsiness-detection.git
 cd drowsiness-detection
+
 Install dependencies:
 pip install -r requirements.txt
+
 Run the project:
 python Drowsiness_Detection(1).py
